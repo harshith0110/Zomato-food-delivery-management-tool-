@@ -1,0 +1,101 @@
+restaurant_id,name,cuisine_type,location,owner_name,average_delivery_time,contact_number,rating,total_orders,is_active
+6ecb86f9-df9a-4173-a911-997b4f6ebcfe,"Baker, Patel and Nelson",Mexican,"392 Bonnie Groves Suite 450
+South Matthew, MS 98956",Mr. Robert Boyer,52,(374)473-5304,4.1,173,True
+b01634a1-e314-4e51-86ef-3fb6a1d970f6,Jordan Ltd,Indian,"8476 Tommy Center Apt. 680
+Wendyhaven, PW 40794",James Martin,42,657.980.2995x677,2.67,93,True
+d6d5c9f7-f406-4be8-b752-32ab2e3bd8b8,"Ward, Thomas and Smith",American,"5016 James Land Suite 518
+Hicksmouth, MD 19296",Taylor Ramos,33,(894)351-1930x11299,4.35,158,True
+7afd09a6-a3d4-4c07-a652-8e6ac234c51f,Baker Inc,Chinese,"Unit 8973 Box 2314
+DPO AE 27095",Victoria Jones,51,393-352-1839x9034,2.44,66,False
+258bff28-59b1-486d-b4f1-ec807fac5679,Williams-Vargas,Italian,"USNS Moss
+FPO AA 40013",Spencer Alvarado,36,269.448.8397x8495,1.36,81,False
+ce7124ea-897e-4705-a1a8-a42ed306da72,"Reyes, Wilcox and Duke",Indian,"69355 Anthony Haven Suite 749
+North Pamela, ME 69741",Eric Barnett,35,761.705.3558,3.93,166,False
+5a3883cc-480a-4ff4-b573-b5ed426cf388,"Santiago, Mcpherson and Davis",Chinese,"0122 Brian Vista Suite 185
+Lake Larry, GA 45269",Gregg Smith,42,(699)965-2695x060,1.14,25,True
+c3065158-b7fa-4553-a974-4eb613157308,"Patterson, Lawson and Webb",American,"59725 Garcia Fork
+Port Ralph, FM 53678",Christopher Maxwell,32,8009974838,4.98,16,True
+cd3fea78-52ef-41cf-8371-63073666c8b5,Barnes-Rogers,Chinese,"Unit 2626 Box 2106
+DPO AA 64058",Courtney Martinez,43,996.269.4101,4.51,87,False
+2349c88b-6a4d-4e8f-899f-29aca6e502ec,Evans PLC,Mexican,"6243 Brandon Mills
+Gayborough, MT 45673",Austin Fisher,36,001-979-223-5761,3.98,23,False
+5b8f2130-c393-41aa-9d43-463bab9e1b55,Cooke Inc,American,"97319 Clark Estate
+Gibbsstad, WA 54338",Erin Ward,25,+1-702-522-3757,4.25,43,False
+398e3612-d329-4446-9999-af84cd386dbe,"Ruiz, Holder and Woodard",Indian,"9689 Reynolds Squares Apt. 804
+North Coreyhaven, MH 47416",Joshua Ramirez,36,819.358.7020,1.3,136,False
+7eb30302-14df-4f6c-9123-d3d12483039a,"Humphrey, Graham and Brown",Mexican,"88429 Williams Track Apt. 906
+Brittanyhaven, PA 48633",David Collier,38,960-516-3595x734,1.21,1,False
+a2ea2a32-bdb2-4a11-b372-c65b5bdd34ce,Ortega and Sons,Mexican,"11027 Jasmine Estates Suite 963
+Joannaborough, OH 04680",Julie Sexton,37,001-763-681-9457x6233,2.16,168,False
+68375bb6-e5fa-47ef-a85a-077817b092c0,"Edwards, Rodriguez and Lutz",Mexican,"562 Gutierrez Plaza Suite 120
+South Scottland, LA 92269",Mr. Andrew Cisneros,52,(400)528-8662,1.47,162,True
+423ca5a8-031f-4c27-8cf8-bf45fc0ee8b9,Willis Group,Mexican,"98555 Johnson Trail
+Valdezshire, LA 22802",Dr. Manuel Mason,24,001-740-912-7558,1.52,74,True
+b9318715-4403-4182-9412-f24d4dcfbc62,Bailey-Jenkins,Mexican,"4313 Huerta Walks Apt. 182
+Lynnton, OK 80351",Jennifer Jones,36,(737)974-4708,1.93,185,False
+9756824f-7f4b-4fe8-b0d0-7045981d6c8b,Summers-Shaw,American,"7977 Lori Crest Suite 193
+Lake Charles, IA 25838",Marcus Mitchell,27,8947441927,2.19,103,False
+6ae9e9b1-d878-4f9a-bbbb-792d43b9b773,"Murray, Jones and Moyer",Chinese,"1494 Mary Corner
+Kimberlyton, KY 00643",Barbara Acevedo,46,862-708-1556,4.55,176,True
+3fc52685-0656-4246-a7f3-9cf20f8c1e82,Howard Ltd,American,"09656 Thornton Neck Suite 451
+Richardchester, FL 18844",David Buchanan,21,389.332.8508x4076,2.08,137,True
+6e39a358-7ce7-41c1-b1b8-363661130202,Williams-Wiggins,Mexican,"379 Stephens Plains
+Ayersbury, NV 09630",Shane Anderson,35,(819)481-8259x7936,4.99,154,True
+f63ca78d-ec67-455e-afdf-67f0d830239b,"Smith, Butler and Miles",Chinese,"5202 Holly Crest
+Lake Jesse, NY 46792",Dylan Johnson,51,698.794.2557x613,3.08,19,False
+ac698d0b-f813-4e91-b727-3e07d130a9dd,Miles-Hansen,Indian,"075 Joseph Curve
+Lake William, SD 39921",Craig Zamora,24,561.956.7128x865,3.0,195,False
+ae442af2-c03f-4eb3-b5c5-b0251244f39e,"Lewis, Lee and Reynolds",American,"1984 Washington Green Apt. 081
+South Justin, TX 58054",Derek Turner,31,001-409-390-2016,2.7,74,True
+1ef96887-0c71-4a63-bf7f-106eb19d81f1,Taylor-Wright,Chinese,"122 Bauer View
+Weeksport, OK 52970",Brittany Adams,30,001-248-329-6699x158,3.56,121,True
+671fc2fa-e369-4a28-90cd-d5013afe9e05,Newman-Curtis,Chinese,"381 Abigail Brook Apt. 881
+Lake Alexview, TX 84929",Lisa Wood,38,7094639320,1.89,140,True
+6a37aa9c-7d89-430f-a5e2-1ecabe41b66e,Walker Ltd,Mexican,"0234 Johnson Shoal
+Carolynmouth, TN 08218",Jacqueline Daniels,47,001-887-238-9386,2.31,196,True
+aaa57264-cf12-4b39-a1a8-2c65543c4465,Flores Ltd,Italian,"5356 Tate Route
+Williamsmouth, WA 54953",Mr. Jose Williams,55,(757)570-4996,3.72,78,True
+c16c43f7-426f-42b3-bf50-19eccfeab6d3,Stewart-Blake,Italian,"201 Natalie Shore Apt. 398
+West Brianna, NV 14961",Larry Scott,29,(277)949-8020x365,2.33,52,False
+9c1671d1-509e-494d-8760-70d831e8b40a,Huber-Burgess,Italian,"592 John Park
+West Sandytown, AZ 75824",Holly Lawson,56,+1-843-802-0274x30130,4.34,82,True
+f26544b8-eb1c-4360-be3c-1fe45c9a4dba,Allen-Wolf,Indian,"92602 Ortiz Roads
+Port Sandra, KS 59494",Dean Schmidt,50,862-303-3724x4417,2.13,58,True
+f1b442ce-88f6-426c-bdce-c12710f6f2e5,"Wallace, James and Blevins",American,"703 Sanchez Burgs Apt. 724
+West David, NC 26335",Anita Martinez,38,468.297.2089x651,2.71,29,True
+bb1a23e4-06dd-493c-96f8-97a41169b825,Rangel-Andrews,Italian,"2703 Walker Fields
+East Yvonnechester, MP 18833",Barbara Underwood,22,991.790.9370x402,3.2,196,False
+cdf2a958-46ef-424b-bad8-6d63e4e8beba,Foster Inc,Italian,"Unit 1231 Box 6500
+DPO AE 99487",Ann Martinez,27,603-603-6368,2.99,45,False
+839d59fc-1bc0-4109-9775-cfa2e456bf45,Martinez-Perkins,Chinese,"Unit 7058 Box 5340
+DPO AA 60126",Danielle Clayton,58,859.379.9932x936,4.49,117,False
+f9bebf14-cf69-4987-83a1-d5ad7ed72596,Shepard Group,American,"2264 Carla Streets
+Moorestad, SD 70426",Daryl Smith,27,001-244-374-6907x06605,3.3,186,False
+d330643a-d45b-46fd-b3ea-6dc2d1113b13,"Wright, Hughes and Christensen",American,"5526 Garcia Crossroad Suite 405
+Millerchester, CO 18283",Rachel Matthews,31,+1-664-963-4514x112,3.18,11,True
+5aff413b-74be-463e-ab2c-cffee53f966d,Monroe LLC,Italian,"062 Peterson Spur
+Kevinfort, CA 91466",Charles Thomas,59,+1-515-603-1313x94103,2.11,188,False
+0b4a22f5-8a6f-4870-a174-b2a5de15e3fc,Vazquez-Landry,Chinese,"8487 Andrea Court Apt. 666
+Sanchezborough, AS 06147",Mrs. Whitney Combs,59,938-285-6522x48171,4.97,146,False
+87a6f9f1-b501-4731-85d0-af673f22c0f6,Howell Ltd,Italian,"41131 Vega Light Apt. 197
+North Juliebury, CA 92259",Aaron Hooper,27,(622)474-5419x72994,3.6,157,False
+eda138c0-ab00-473a-abc1-4239c1295cf7,"Gomez, Barry and Miller",Mexican,"000 Cline Keys
+Smithborough, MA 46567",Albert Elliott MD,56,001-203-229-0347x70830,4.76,135,False
+ee28cccb-13f4-4d4a-bb34-7462cfd7d995,Bowen and Sons,Mexican,"09941 Elizabeth Port Apt. 489
+Sanchezview, WV 82852",Katherine Baker,38,001-433-969-2264x698,1.94,190,False
+12669193-051b-4301-b36f-f314250feaa9,Porter Group,American,"0307 Banks Isle
+Fowlerfurt, DE 92626",Lisa Suarez,48,3374167800,4.6,103,True
+0c1b7750-9749-4c54-a305-5990697ce678,"Davis, Jones and Dunn",Italian,"3136 Deleon Station Suite 466
+Curtisbury, VI 86886",Michael Hayes,42,+1-604-946-1644x15144,3.78,51,False
+51d79d8c-77e3-4fa1-bc29-14d72405b702,"Moore, Downs and Adkins",Italian,"USCGC Barton
+FPO AE 67547",Dr. Travis Gardner,58,001-652-734-2640x29058,3.51,46,False
+80557b00-bab4-4b69-aaff-479fa9b35a3e,Stewart LLC,Chinese,"2082 Marc Groves
+South Davidmouth, NY 27720",Mark Boyd,20,001-984-945-6580,3.07,142,True
+ebf1523d-cfa5-4d83-ab2d-cd6a71581547,Hill and Sons,Mexican,"7616 Mitchell Ville
+West Melissamouth, NH 02185",Todd Lewis,21,+1-853-958-3146,3.26,109,True
+f241998d-c3f1-4596-97bb-a1ab4e691cc9,Richardson PLC,Mexican,"7795 Sheppard Crossing
+West Heather, WA 38771",Devin Jensen,23,+1-556-256-9263x36359,4.22,178,False
+d579deec-e86c-4c92-a875-81553047e993,"Ramos, Randall and Powers",Indian,"547 Robert Turnpike Apt. 805
+West Robertshire, KS 72096",Mrs. Victoria Gray,51,2006346281,3.51,147,True
+4c5fd215-e2a5-4ed6-95c3-6614224bf5f7,Cannon-Thompson,Italian,"60278 Bryan Wall
+Hillside, VI 48538",Louis Munoz,48,001-326-243-1742x12195,3.35,93,True
